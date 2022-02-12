@@ -79,7 +79,7 @@
     "init-package-json": "^2.0.5",
     "is-cidr": "^4.0.2",
     "json-parse-even-better-errors": "^2.3.1",
-    "libnpmaccess": "^4.0.2",
+    "libnpmaccess": "^5.0.0",
     "libnpmdiff": "^2.0.4",
     "libnpmexec": "^3.0.1",
     "libnpmfund": "^2.0.1",
